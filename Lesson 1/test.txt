@@ -1,0 +1,19 @@
+Here is a quick test of our today's lesson. Try to solve it in your own to improve your coding skills at the beginning:
+
+1. Write a program to print: I love Python!
+
+2. Write a program to make a variable, store data in it and print it.
+
+3. Write a program to determine the class or data type of a variable.
+
+4. Write a program to calculate the sum of 2 numbers using variables and print it.
+
+5. Wrute a program to take a variable from the user and print it.
+
+6. Write a program to determine that is a person eligible for voting or not.
+
+7. Write a program to print numbers from 1 to 10.
+
+Try to solve all these programs at your own to improve your learning skills.
+
+Ending Lesson 1...

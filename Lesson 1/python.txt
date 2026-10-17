@@ -1,0 +1,142 @@
+========================================
+          INTRODUCTION TO PYTHON
+========================================
+
+WHAT IS PYTHON?
+
+Python is a programming language that allows us to give instructions to a computer. It is easy to learn because its code looks a little like English.
+
+Python is used to create games, calculators, websites, AI chatbots, and many other things.
+
+Let's learn some basic Python examples!
+
+----------------------------------------
+1. PRINTING A MESSAGE
+----------------------------------------
+
+We use print() to display messages on the screen.
+
+Example:
+
+print("Hello, World!")
+print("Welcome to Python!")
+
+Output:
+
+Hello, World!
+Welcome to Python!
+
+----------------------------------------
+2. VARIABLES
+----------------------------------------
+
+Variables are used to store information, such as numbers and text.
+
+Example:
+
+name = "Soura"
+age = 12
+
+print(name)
+print(age)
+
+Output:
+
+Soura
+12
+
+----------------------------------------
+3. MATHEMATICAL OPERATIONS
+----------------------------------------
+
+Python can perform calculations like a calculator.
+
+Example:
+
+a = 10
+b = 5
+
+print(a + b)  # Addition
+print(a - b)  # Subtraction
+print(a * b)  # Multiplication
+print(a / b)  # Division
+
+Output:
+
+15
+5
+50
+2.0
+
+----------------------------------------
+4. TAKING USER INPUT
+----------------------------------------
+
+The input() function allows us to take information from the user.
+
+Example:
+
+name = input("What is your name? ")
+print("Hello,", name)
+
+Example Output:
+
+What is your name? Soura
+Hello, Soura
+
+----------------------------------------
+5. MAKING DECISIONS
+----------------------------------------
+
+We use if and else to make decisions based on conditions.
+
+Example:
+
+age = 12
+
+if age >= 18:
+    print("You are an adult.")
+else:
+    print("You are not an adult yet.")
+
+Output:
+
+You are not an adult yet.
+
+----------------------------------------
+6. USING LOOPS
+----------------------------------------
+
+Loops allow us to repeat instructions multiple times.
+
+Example:
+
+for i in range(1, 6):
+    print(i)
+
+Output:
+
+1
+2
+3
+4
+5
+
+Example :
+
+i = 1
+while i<=5:
+    print(i)
+    i+=1
+
+Same Output...
+
+----------------------------------------
+CONCLUSION
+----------------------------------------
+
+Python is a beginner-friendly programming language that can be used to build many exciting projects. By learning its basics and practising regularly, you can create your own programs, games, and AI applications.
+
+Keep learning, keep practising, and enjoy coding!
+
+HAPPY CODING! 🚀
