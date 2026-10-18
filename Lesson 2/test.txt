@@ -1,0 +1,19 @@
+Here is a quick test and revision of today's lesson: 
+
+1. Write a program to calculate the division of 2 numbers using an operator.
+
+2. Write a program using assignment operator(+=).
+
+3. Write a program to compare 2 numbers to determine the greater number.
+
+4. Write a program using the boolean operator(or).
+
+5. Write a program to calculate the power of 2 numbers.
+
+6. Write a conditional if-else program using the boolean operator(not).
+
+7. Write a program to determine whose age is lesser.
+
+Try to solve all these programs at your own to improve your learning skills.
+
+Ending Lesson 2...
