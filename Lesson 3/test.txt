@@ -1,0 +1,26 @@
+Here is a quick test and revision of today's lesson: 
+
+1. Write a program that stores your name in a variable and prints the string, its length, and its uppercase and lowercase forms.
+
+2. tore "Programming" in a variable and print:
+- The first four characters.
+- The last three characters.
+- Every second character.
+- The entire string in reverse order.
+
+3. Store "I love Java programming" in a variable. Replace "Java" with "Python" and print the new sentence.
+
+4. Ask the user to enter their full name in lowercase or mixed case, with extra spaces at the beginning or end. Remove the extra spaces and display the name in title case.
+
+5. Ask the user to enter a sentence. Check whether the sentence starts with "Python" and ends with "!". Print the results as True or False.
+
+6. Ask the user to enter a sentence. Print it in uppercase, lowercase, and title case. Then replace every space with a hyphen (-).
+
+7. Write a program that prints the following output using escape sequence characters:
+Name:	Soura
+Language:	Python
+Message:	"I love coding!"
+
+Use \n, \t, and escaped quotation marks where necessary.
+
+Ending Lesson 3...
