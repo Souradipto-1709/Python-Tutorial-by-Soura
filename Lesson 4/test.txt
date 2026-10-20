@@ -1,0 +1,19 @@
+Here is a quick test and revision of today's lesson: 
+
+1. Create a list named student_info containing your name, your age, your height, and whether you like Python (True or False).Print the list and print its type.
+
+2. Create an empty list named favorite_things. Add three things to it using append(), then print the list.
+
+3. Create a list with at least six items. Print the first item, the last item, and one item from the middle using positive indexes.
+
+4. Using the list from Exercise 3, print the last item and the second-to-last item using negative indexes.
+
+5. Create a list of at least six items. Print a slice containing the items from index 1 up to (but not including) index 4.
+
+6. Create a list of at least six numbers. Print the list after sorting it in ascending order with sort(). Then use reverse() and print the list again.
+
+7. Create a list of at least five items. Use append() to add one item, pop() to remove an item at a chosen index, and insert() to add an item at a chosen index. Print the list after each operation.
+
+8. Create a list with some repeated values. Use count() to find how many times one chosen value appears, and print the count.
+
+Ending Lesson 4...
