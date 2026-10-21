@@ -1,0 +1,13 @@
+Here is a quick test and revision of today's lesson: 
+
+1. Create a dictionary named `movie` with two key-value pairs: a title of your choice and a year of your choice.
+
+2. Given 'person = {'Name': 'Soura', 'Language': 'Python'}', write code to access and print the value stored under the 'Language' key.
+
+3. Start with an empty dictionary named 'd'. Use 'update()' to add these pairs: 'name1' with value 'Asha', and 'name2' with value 'Ravi'.
+
+4. Write code that prints all the key-value pairs in this dictionary using `items()`, tools = {'editor': 'VS Code', 'language': 'Python'}
+
+5. Write code that removes the key 'Language' from 'details' using 'pop()', details = {'Name': 'Asha', 'Language': 'Python'}
+
+Ending Lesson 5...
