@@ -1,0 +1,13 @@
+Here is a quick test and revision of today's lesson: 
+
+1. Make a program that creates a tuple containing your name, age, and favorite subject, then prints the tuple and its type.
+
+2. Make a program that creates a tuple of five items and prints the first item, the third item, and the last item using indexing.
+
+3. Make a program that creates a tuple of six numbers and prints a slice containing the second, third, and fourth numbers.
+
+4. Make a program that creates a tuple with repeated values and uses count() to print how many times a chosen value appears.
+
+5. Make a program that creates a tuple of words and uses index() to print the index of a chosen word.
+
+Ending Lesson 6...
