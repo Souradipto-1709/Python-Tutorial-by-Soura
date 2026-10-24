@@ -1,0 +1,15 @@
+Here is a quick test and revision of today's lesson:
+
+1. Write a program to create a set containing duplicate numbers and demonstrate how Python automatically removes the duplicates.
+
+2. Write a program to create a set of numbers from 1 to 5 and add three more numbers using update().
+
+3. Write a program to remove a specified element from a set using remove(). Also demonstrate discard() with an element that does not exist.
+
+4. Write a program to use pop() to remove an element from a set. Print both the removed element and the remaining set.
+
+5. Write a program to create a set of your favourite programming languages. Add one language, update the set with two more languages, remove one language, and finally print the set. Then clear the set and print the result.
+
+6. Write a program to create two sets of numbers and display their union and intersection.
+
+# Ending lesson 7...

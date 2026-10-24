@@ -39,3 +39,33 @@ s.discard(2)
 print(s)
 # s.discard(10) => Returns no error
 
+# 5. pop(): Randomly removes one of the element of the set.
+p = s.pop() # Removes an element
+print(p) # Prints the removed element
+print(s) # Prints the remaining elements
+
+# 6. clear(): Removes all the elements from the set.
+s.clear()
+print(s)
+
+a = {1, 2, 3, 4}
+b = {3, 4, 5, 6}
+
+# 7. union(): Combines two sets, by removing the duplicate ones.
+print(a.union(b))
+
+# 8. intersection(): Returns the elements which are common to both the sets.
+print(a.intersection(b))
+
+# Output:
+# {1, 2, 3, 4}
+# {1, 2, 3, 4, 5, 6}
+# {2, 3, 4, 5, 6}
+# {3, 4, 5, 6}
+# 3
+# {4, 5, 6}
+# set()
+# {1, 2, 3, 4, 5, 6}
+# {3, 4}
+
+# Now, let's move to our next coding lesson...
